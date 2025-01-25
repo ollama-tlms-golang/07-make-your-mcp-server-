@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mcp-curl" :{
+      "command": "./mcp-curl"
+    }
+  }
+}
